@@ -9,6 +9,8 @@ public class MyFirstApp {
         dobeedoo.DoBeeDoo();
         System.out.println();
         BeerSong beerSong = new BeerSong();
-        beerSong.beersong();
+       // beerSong.beersong();
+        PhraseOMattic phraseOMattic = new PhraseOMattic();
+        phraseOMattic.phraseOMatic();
     }
 }
