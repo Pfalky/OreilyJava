@@ -7,5 +7,8 @@ public class MyFirstApp {
         System.out.println("Миром");
         DoBeeDoo dobeedoo = new DoBeeDoo();
         dobeedoo.DoBeeDoo();
+        System.out.println();
+        BeerSong beerSong = new BeerSong();
+        beerSong.beersong();
     }
 }
